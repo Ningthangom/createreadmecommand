@@ -1,5 +1,5 @@
 
-# test1
+# Readme Command-line
 ## Table of Content 
 * [Description](#Description)
 * [Installation](#Installation)
@@ -11,26 +11,26 @@
 * [gitHub](#gitHub)
 
 # Description
-alskjdkfjh;
+This will take in the user input and generate Readme.md
 
 # Installation 
-alkdjf
+clone the repository, install npm 
 
 # Usage
-asdkljf
+NaN
 
 # License
-MIT
+NONE
 
 # Contribution
-as;ldj
+NaN
 
 # tests
-asl;dkf
+NaN
 
 # Questions
-as;lkdfj
+ask me @gmail.com
 
 # Github profile
-aklsdjf
+Ningthangom
 
