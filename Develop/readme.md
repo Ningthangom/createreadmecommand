@@ -1,5 +1,5 @@
 
-# Readme Command-line
+# create Readme.md from Commandline
 ## Table of Content 
 * [Description](#Description)
 * [Installation](#Installation)
@@ -11,25 +11,25 @@
 * [gitHub](#gitHub)
 
 # Description
-This will take in the user input and generate Readme.md
+this will allow the user to generate Readme.md based on the inputs
 
 # Installation 
-clone the repository, install npm 
+clone the repositry, npm install , node index.js
 
 # Usage
-NaN
+create Readme.md
 
 # License
-NONE
+MIT
 
 # Contribution
-NaN
+-
 
 # tests
-NaN
+-
 
 # Questions
-ask me @gmail.com
+-
 
 # Github profile
 Ningthangom
